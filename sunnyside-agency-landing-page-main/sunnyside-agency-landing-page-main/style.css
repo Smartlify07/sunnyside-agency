@@ -1,0 +1,80 @@
+.nav-container{
+    background-image: url(./images/desktop/image-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 20px;
+}
+ul li:hover{
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    padding: 20px;
+}
+.creative p{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+.arrow{
+    padding: 20px;
+    text-align: center;
+}
+.transform{
+    display: flex;
+    align-items: center;
+}
+.transform-text{
+    padding: 60px;
+    text-align: start;
+    width:50% ;
+}
+.transform-text h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.transform-text p{
+    font-size: 20px;
+}
+.transform-text h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+.graphic{
+    display: flex;
+    height: 500px;
+    align-content: end;
+}
+.graphic-text{
+    background-image: url(./images/desktop/image-graphic-design.jpg);
+    text-align:center;
+    width:50%;  
+    color: hsl(167, 40%, 24%);
+}
+.photography-text{
+    background-image: url(./images/desktop/image-photography.jpg);
+    text-align: center;
+    width:50% ;
+    color: hsl(198, 62%, 26%);
+}
+.text-container{
+    /* align-items: center; */
+    padding: 20px;
+}
+.t-header h3{
+    color: ;
+    text-transform: uppercase;
+}
