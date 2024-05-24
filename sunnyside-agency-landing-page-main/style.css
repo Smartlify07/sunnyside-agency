@@ -24,7 +24,7 @@ body{
 
 
 .card1{
-  background-image: url(/images/desktop/image-header.jpg);
+  background-image: url(./images/desktop/image-header.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -34,7 +34,7 @@ body{
 }
 /* NAV CONTAINER */
 .sunnyNav{
-background-image: url(/images/desktop/image-header.jpg);
+background-image: url(./images/desktop/image-header.jpg);
 background-size: 200%;
 background-position: top;
 display: flex;
@@ -205,7 +205,7 @@ z-index: 100;
 
 /* img beside transform */
 .egg{
-  background-image: url(images/desktop/image-transform.jpg);
+  background-image: url(./images/desktop/image-transform.jpg);
   background-size: cover;
   background-position: center;
   height: 40rem;
@@ -213,7 +213,7 @@ z-index: 100;
 
 /* img beside stand out */
 .stand_cup {
-  background-image: url(images/desktop/image-stand-out.jpg);
+  background-image: url(./images/desktop/image-stand-out.jpg);
   background-size: cover;
   background-position: center;
   height: 40rem;
@@ -276,7 +276,7 @@ z-index: 100;
   text-align: center;
   align-items: center;
   background-repeat: no-repeat;
-  background-image: url(/images/desktop/image-graphic-design.jpg);
+  background-image: url(./images/desktop/image-graphic-design.jpg);
   background-position: top;
   background-size: cover;
   height: 45rem;
@@ -299,7 +299,7 @@ z-index: 100;
 
 
 .photo{
-  background-image: url(/images/desktop/image-photography.jpg);
+  background-image: url(./images/desktop/image-photography.jpg);
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -391,28 +391,28 @@ z-index: 100;
 
 .random-img1{
   height:60vh;
-  background-image: url(/images/desktop/image-gallery-milkbottles.jpg);
+  background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   background-position: right;
 }
 .random-img2{
   height:60vh;
-  background-image: url(/images/desktop/image-gallery-orange.jpg);
+  background-image: url(./images/desktop/image-gallery-orange.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   background-position: left;
 }
 .random-img3{
   height:60vh;
-  background-image: url(/images/desktop/image-gallery-cone.jpg);
+  background-image: url(./images/desktop/image-gallery-cone.jpg);
   background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .random-img4{
   height: 60vh;
-  background-image: url(/images/desktop/image-gallery-sugarcubes.jpg);
+  background-image: url(./images/desktop/image-gallery-sugarcubes.jpg);
   background-position: right;
   background-size:cover;
 
@@ -618,7 +618,7 @@ footer div a:hover{
 }
 
 .egg{
-  background-image: url(images/desktop/image-transform.jpg);
+  background-image: url(./images/desktop/image-transform.jpg);
   height: 30rem;
   grid-row: 1 ;
 
@@ -626,7 +626,7 @@ footer div a:hover{
 
 /* img beside stand out */
 .stand_cup {
-  background-image: url(images/desktop/image-stand-out.jpg);
+  background-image: url(./images/desktop/image-stand-out.jpg);
   height: 30rem;
   grid-row: 1 ;
 
@@ -696,21 +696,21 @@ footer div a:hover{
 
   .random-img1{
     height:40vh;
-    background-image: url(/images/mobile/image-gallery-milkbottles.jpg);
+    background-image: url(./images/mobile/image-gallery-milkbottles.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: right;
   }
   .random-img2{
     height:40vh;
-    background-image: url(/images/mobile/image-gallery-orange.jpg);
+    background-image: url(./images/mobile/image-gallery-orange.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: left;
   }
   .random-img3{
     height:40vh;
-    background-image: url(/images/mobile/image-gallery-cone.jpg);
+    background-image: url(./images/mobile/image-gallery-cone.jpg);
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -868,7 +868,7 @@ footer div a:hover{
 }
 
 .egg{
-  background-image: url(images/mobile/image-transform.jpg);
+  background-image: url(./images/mobile/image-transform.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -876,7 +876,7 @@ footer div a:hover{
 
 /* img beside stand out */
 .stand_cup {
-  background-image: url(images/mobile/image-stand-out.jpg);
+  background-image: url(./images/mobile/image-stand-out.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -885,28 +885,28 @@ footer div a:hover{
 
 .random-img1{
   height:35h;
-  background-image: url(/images/mobile/image-gallery-milkbottles.jpg);
+  background-image: url(./images/mobile/image-gallery-milkbottles.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   background-position: right;
 }
 .random-img2{
   height:35h;
-  background-image: url(/images/mobile/image-gallery-orange.jpg);
+  background-image: url(./images/mobile/image-gallery-orange.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   background-position: left;
 }
 .random-img3{
   height:35h;
-  background-image: url(/images/mobile/image-gallery-cone.jpg);
+  background-image: url(./images/mobile/image-gallery-cone.jpg);
   background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .random-img4{
   height: 35h;
-  background-image: url(/images/mobile/image-gallery-sugar-cubes.jpg);
+  background-image: url(./images/mobile/image-gallery-sugar-cubes.jpg);
   background-position: right;
   background-size:cover;
 
